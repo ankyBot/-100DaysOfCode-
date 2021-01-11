@@ -9,12 +9,13 @@
  background-color: black;
  color: white;
  border: 1px solid;
+ margin: auto;
 }
 
 .cal-button-row {
    display: flex;
    justify-content: space-between;
-   margin: 5px 0;
+   margin: 2px;
 }
 
 .cal-button {
@@ -34,4 +35,8 @@ button:hover {
    text-align: right;
    font-size: 35px;
    padding: 15px 10px;
+}
+
+.top {
+   flex-basis: 37.2%;
 }
