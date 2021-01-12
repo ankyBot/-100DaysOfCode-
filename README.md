@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 ## My #100DaysOfCode journey
 
@@ -17,23 +16,9 @@ do some change in my calculator UI, I take some help from https://www.internetin
 
 * Day 03/100:
 Do some Practice on javascript data structure and algorithm part At free code camp https://www.freecodecamp.org/learn/
-because I need to add some functionality to my calculator
-=======
-## -100DaysOfCode-
-## I will update my daily report here.
--------------------------------------------------------
-click Here to see my Progress  http://ankybot.me/-100DaysOfCode-/
+because i need to add some functionality in my calculatore
 
-Day 01/100: 
-# I lerant How to Push the Code to Github, using git bash... through this YouTube video https://youtu.be/wrb7Gge9yoE
-
-# made a calculator UI using plain HTML and css and push the code to github
-
-Day 02/100:
-# do some change in my calculator UI, I take some help from https://www.internetingishard.com/ whenever i stuck  
->>>>>>> fd2b4918b8e91a839b3b50c22e80bcc6ec80cb12
-
-Learn about JSON data and Manupalting complex objects
+Learn about json data and Manupalting complex objets
 
 
 
