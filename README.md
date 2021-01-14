@@ -19,8 +19,7 @@ because i need to add some functionality in my calculatore.
 Learn about json data and Manupalting complex objets.
 
 * Day 04/100:
-complated javascript DS and Algo on freecodecamp.
-
+completed javascript DS and Algo on freecodecamp.
 
 
 
