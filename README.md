@@ -22,12 +22,10 @@ Learn about json data and Manupalting complex objets.
 completed javascript DS and Algo on freecodecamp.
 
 * Day 05/100White heavy check markof #100DaysOfCode  
-
-Update:
-Do practice on javascript basics, and maybe it will take 2more days...Because I want a solid understanding of the basics.
-
-resources I used:
-https://codecademy.com/courses/introduction-to-javascript
+   Update:
+   Do practice on javascript basics, and maybe it will take 2more days...Because I want a solid understanding of the basics.
+   resources I used:
+   https://codecademy.com/courses/introduction-to-javascript
 
 
 
