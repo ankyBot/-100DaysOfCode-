@@ -44,5 +44,14 @@ click Here to see my Progress  http://ankybot.me/-100DaysOfCode-/
    ,and I like the concise arrow function and Global namespace ( space in our code that contain globally scopedd information).
    resources I used:
    https://codecademy.com/courses/introduction-to-javascript
+   
+* Day 08/100 of #100DaysOfCode 
+   Update:
+   Learn about Higher order Function at
+   (A higher order function is a function that takes a function as an argument, or returns a function or do both).
+   resources I used:
+   https://codecademy.com/courses/introduction-to-javascript
+   
+
 
  
