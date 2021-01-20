@@ -2,8 +2,7 @@
 ## My #100DaysOfCode journey
 
 I will update my daily report here.
-
--------------------------------------------------------
+<hr>
 click Here to see my Progress  http://ankybot.me/-100DaysOfCode-/ 
 <hr>
 <article>
@@ -21,17 +20,17 @@ click Here to see my Progress  http://ankybot.me/-100DaysOfCode-/
 
 * Day 04/100: <br>
    completed javascript DS and Algo on freecodecamp.
-</article>
 
-* Day 05/100 of #100DaysOfCode  <br>
-   Update:<br>
+
+* Day 05/100 of #100DaysOfCode  
+   Update:
    Do practice on javascript basics, and maybe it will take 2more days...Because I want a solid understanding of the basics.<br>
-   resources I used:<br>
-   https://codecademy.com/courses/introduction-to-javascript<br>
+   resources I used:
+   https://codecademy.com/courses/introduction-to-javascript
 
 
-* Day 06/100 of #100DaysOfCode <br>
-   Update:<br>
+* Day 06/100 of #100DaysOfCode 
+   Update:
    Today i Learn the basics of javascript, and found two interesting topics.<br>
   1.) short-circuit evaluation<br>
   2.) conditional (ternary) operator<br>
@@ -63,3 +62,4 @@ click Here to see my Progress  http://ankybot.me/-100DaysOfCode-/
    
    resources I used:
    https://codecademy.com/courses/introduction-to-javascript
+</article>
