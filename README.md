@@ -53,5 +53,12 @@ click Here to see my Progress  http://ankybot.me/-100DaysOfCode-/
    https://codecademy.com/courses/introduction-to-javascript
    
 
-
- 
+#* Day 09/100 of #100DaysOfCode 
+   Today i found programming languages cheatsheets at one place https://www.codecademy.com/resources/cheatsheets/all
+   Update:Update:
+   Solve problems on variables
+   1.)kelvin weather
+   2.)Dog years
+   
+   resources I used:
+   https://codecademy.com/courses/introduction-to-javascript
