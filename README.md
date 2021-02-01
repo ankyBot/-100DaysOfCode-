@@ -1,5 +1,5 @@
 
-## My #100DaysOfCode journey
+<h3> ## My #100DaysOfCode journey</h3>
 
 I will update my daily report here.
 <hr>
@@ -62,4 +62,23 @@ click Here to see my Progress  http://ankybot.me/-100DaysOfCode-/
    
    resources I used:
    https://codecademy.com/courses/introduction-to-javascript
+
+
+* Day 19/100 of #100DaysOfCode 
+   Today I found Three great Tools for Learn javascript.
+   1.) Array explorer-  https://arrayexplorer.netlify.app/
+   2.) Object explorer- https://objectexplorer.netlify.app/
+   3.) JavaScript Visualizer- https://www.jsv9000.app/
+   Update:
+   Solve problems on Basics Algorithm scripting and completed 25% of challange<br>
+
+
+* Day 20/100 of #100DaysOfCode <br>
+   Today i found a great  Github repo for #100DyasOfCode with time stamp https://github.com/nas5w/100-days-of-code-frontend <br>
+   Update: <br>
+   Solve problems on Basics Algorithm scripting and completed 50% of challange
+   resources I used:
+   for practice- https://www.freecodecamp.org/learn
+   video help- https://www.youtube.com/watch?v=lRLFPrfieg4&list=PL4KmSXe4d6pOQHGgtp2PJMI9T-Bz_Cchg&index=3&t=769s
+
 </article>
