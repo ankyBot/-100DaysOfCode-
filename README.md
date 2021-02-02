@@ -81,4 +81,13 @@ click Here to see my Progress  http://ankybot.me/-100DaysOfCode-/
    for practice- https://www.freecodecamp.org/learn
    video help- https://www.youtube.com/watch?v=lRLFPrfieg4&list=PL4KmSXe4d6pOQHGgtp2PJMI9T-Bz_Cchg&index=3&t=769s
 
+
+* Day 21/100 of #100DaysOfCode 
+   Today I found a good book for Learn javascript, and a Javascript Online Book.
+   1.)https://frontendmasters.com/books/front-end-handbook/2019/
+   2.)https://eloquentjavascript.net/
+   Update:
+   Solve problems on Basics Algorithm scripting and completed 25% of challange
+
+
 </article>
