@@ -66,9 +66,9 @@ click Here to see my Progress  http://ankybot.me/-100DaysOfCode-/
 
 * Day 19/100 of #100DaysOfCode 
    Today I found Three great Tools for Learn javascript.
-   1.) Array explorer-  https://arrayexplorer.netlify.app/
-   2.) Object explorer- https://objectexplorer.netlify.app/
-   3.) JavaScript Visualizer- https://www.jsv9000.app/
+   1.) Array explorer-  https://arrayexplorer.netlify.app/<br>
+   2.) Object explorer- https://objectexplorer.netlify.app/<br>
+   3.) JavaScript Visualizer- https://www.jsv9000.app/<br>
    4.) JavaScript Visualizer_2- http://pythontutor.com/javascript.html#mode=display
    Update:
    Solve problems on Basics Algorithm scripting and completed 25% of challange<br>
@@ -79,14 +79,14 @@ click Here to see my Progress  http://ankybot.me/-100DaysOfCode-/
    Update: <br>
    Solve problems on Basics Algorithm scripting and completed 50% of challange
    resources I used:
-   for practice- https://www.freecodecamp.org/learn
+   for practice- https://www.freecodecamp.org/learn<br>
    video help- https://www.youtube.com/watch?v=lRLFPrfieg4&list=PL4KmSXe4d6pOQHGgtp2PJMI9T-Bz_Cchg&index=3&t=769s
-
+<hr>
 
 * Day 21/100 of #100DaysOfCode 
    Today I found a good book for Learn javascript, and a Javascript Online Book.
-   1.)https://frontendmasters.com/books/front-end-handbook/2019/
-   2.)https://eloquentjavascript.net/
+   1.)https://frontendmasters.com/books/front-end-handbook/2019/<br>
+   2.)https://eloquentjavascript.net/<br>
    Update:
    Solve problems on Basics Algorithm scripting and completed 25% of challange
 
