@@ -28,6 +28,7 @@ click Here to see my Progress  http://ankybot.me/-100DaysOfCode-/
    resources I used:
    https://codecademy.com/courses/introduction-to-javascript
 
+<hr>
 
 * Day 06/100 of #100DaysOfCode 
    Update:
@@ -63,6 +64,14 @@ click Here to see my Progress  http://ankybot.me/-100DaysOfCode-/
    resources I used:
    https://codecademy.com/courses/introduction-to-javascript
 
+* Day 10/100 of #100DaysOfCode <br>
+   Today i found programming languages cheatsheets at one place https://www.codecademy.com/resources/cheatsheets/all <br>
+   Update: <br>
+   Solve problems on variables
+   1.)kelvin weather
+   2.)Dog years
+
+<hr>
 
 * Day 19/100 of #100DaysOfCode 
    Today I found Three great Tools for Learn javascript.
@@ -90,5 +99,12 @@ click Here to see my Progress  http://ankybot.me/-100DaysOfCode-/
    Update:
    Solve problems on Basics Algorithm scripting and completed 25% of challange
 
+
+* Day 21/100 of #100DaysOfCode 
+   Today I found great visualization tool for javascript.<br>
+   http://pythontutor.com/javascript.html#mode=display<br>
+   Update:Today I  Do practice on Basic  Algorithm Scripting.
+
+ 
 
 </article>
